@@ -5,11 +5,12 @@
     "name": "古诗词速查",
     "description": "一款面向 REDMI Watch 6 的 Vela 快应用，可按年级查询小学至初三（部编版）古诗文原文与课下注释，共 252 篇。",
     "preview": [
-      "media/preview-4-detail.png",
-      "media/preview-3-list.png",
+      "media/watch6-1-index.png",
+      "media/watch6-3-menu.png",
       "media/watch6-4-term.png",
-      "media/preview-2-grade.png",
-      "media/watch6-1-index.png"
+      "media/watch6-6-detail.png",
+      "media/watch6-2-settings.png",
+      "media/watch6-7-switches.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/cover.png",
@@ -23,12 +24,10 @@
   "links": [],
   "downloads": {
     "xmrw6": {
-      "version": "1.0",
-      "file_name": "downloads/com.vela.poetryband.release.1.0.rpk",
-      "versionCode": 15
+      "version": "1.0.1",
+      "file_name": "downloads/com.vela.poetryband.release.1.0.1.rpk",
+      "versionCode": 16
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
